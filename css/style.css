@@ -4,10 +4,6 @@ html,body{
 	background:#111;
 }
 
-body{
-  font:normal 75% Arial, Helvetica, sans-serif;
-}
-
 a {transition: 0.1s;}
 a:hover {color: rgb(158, 158, 158) !important; transition: 0.1s;}
 

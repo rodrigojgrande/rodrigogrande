@@ -25,9 +25,6 @@
 	<!-- Icon -->
 	<link rel="icon" href="ico/favicon.ico">
 
-	<!-- Font -->
-	<link href="https://fonts.googleapis.com/css?family=gotham-bold&display=swap" rel="stylesheet">
-
   <!-- Title -->
   <title> <?php if(isset($titlepage)){ echo $titlepage; }else{ echo ""; } ?></title>
 
