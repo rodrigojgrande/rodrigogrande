@@ -26,7 +26,7 @@
 	<link rel="icon" href="ico/favicon.ico">
 
   <!-- Title -->
-  <title> <?php if(isset($titlePage)){ echo $titlepage; }else{ echo ""; } ?></title>
+  <title> <?php if(isset($titlePage)){ echo $titlePage; }else{ echo ""; } ?></title>
 
 </head>
 
