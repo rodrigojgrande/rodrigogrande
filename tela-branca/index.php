@@ -1,6 +1,6 @@
 <?php
 $pathFiles = "../";
-$titlePage = "Tela Branca | White Screen 🛠";
+$titlePage = "Tela Branca | White Screen";
 $description = '<meta charset="utf-8" name="description" content="Tela branca para utilizar como iluminação para leitura! White Screen for reading!">';
 ?>
 
