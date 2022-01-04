@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /frameworks/
+Disallow: /moodle/
+Disallow: /wordpress/
+Disallow: /woocommerce/

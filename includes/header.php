@@ -17,7 +17,7 @@
   <script src="https://kit.fontawesome.com/555bcd85d4.js"></script>
 
 	<!-- CSS only -->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- My CSS -->
   <link rel="stylesheet" href="css/style.css" type="text/css">
@@ -26,7 +26,7 @@
 	<link rel="icon" href="ico/favicon.ico">
 
   <!-- Title -->
-  <title> <?php if(isset($titlepage)){ echo $titlepage; }else{ echo ""; } ?></title>
+  <title> <?php if(isset($titlePage)){ echo $titlepage; }else{ echo ""; } ?></title>
 
 </head>
 

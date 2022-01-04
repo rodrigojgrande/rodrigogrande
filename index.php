@@ -1,6 +1,6 @@
 <?php
-$caminhoArquivos = "./";
-$titlepage = "Rodrigo Grande | Em construção 🛠";
+$pathFiles = "../";
+$titlePage = "Rodrigo Grande | Em construção 🛠";
 $description = '<meta charset="utf-8" name="description" content="Site em Construção!">';
 ?>
 
