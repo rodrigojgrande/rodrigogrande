@@ -20,10 +20,10 @@
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- My CSS -->
-  <link rel="stylesheet" href="css/style.css" type="text/css">
+  <link rel="stylesheet" href="<?php echo $pathFiles?>css/style.css" type="text/css">
 
 	<!-- Icon -->
-	<link rel="icon" href="ico/favicon.ico">
+	<link rel="icon" href="<?php echo $pathFiles?>ico/favicon.ico">
 
   <!-- Title -->
   <title> <?php if(isset($titlePage)){ echo $titlePage; }else{ echo ""; } ?></title>

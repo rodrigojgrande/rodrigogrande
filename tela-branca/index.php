@@ -6,4 +6,6 @@ $description = '<meta charset="utf-8" name="description" content="Tela branca pa
 
 <?php include_once ($pathFiles . "includes/header.php") ?>
 
+<main class="container-fluid bg-white w-100 h-100 text-white"></main>
+
 <?php include_once ($pathFiles . "includes/footer.php")  ?>
