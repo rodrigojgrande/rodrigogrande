@@ -191,15 +191,16 @@ $description = '<meta charset="utf-8" name="description" content="Página dedica
         <figure>
             <figcaption class="blockquote-footer pt-2">Dois exemplos de vídeos que produzi e performei</figcaption>
         </figure>
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/0drLKnyHvt4?si=P77mWbK3dDGur0dZ"
+
+        <div class="embed-responsive embed-responsive-16by9 col-12">
+            <iframe src="https://www.youtube.com/embed/0drLKnyHvt4?si=P77mWbK3dDGur0dZ"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
         </div>
 
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/5LkyQXHnT1c?si=YZo82C7PlfIAzgPi"
+        <div class="embed-responsive embed-responsive-16by9 col-12">
+            <iframe src="https://www.youtube.com/embed/5LkyQXHnT1c?si=YZo82C7PlfIAzgPi"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -211,8 +212,8 @@ $description = '<meta charset="utf-8" name="description" content="Página dedica
             <figcaption class="blockquote-footer pt-2">Dois exemplos de fotos minhas</figcaption>
         </figure>
 
-        <img src="/../images/pets-46.jpg" class="img-fluid" alt="Fotografia de um lagarto">
-        <img src="/../images/pets-60.jpg" class="img-fluid" alt="Fotografia de uma cobra">
+        <img src="/../images/pets-46.jpg" class="img-fluid img-thumbnail col-6" alt="Fotografia de um lagarto">
+        <img src="/../images/pets-60.jpg" class="img-fluid img-thumbnail col-6" alt="Fotografia de uma cobra">
 
         <p>Na minha conta do <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://www.instagram.com/rodrigojgrande/">Instagram</a> consta algumas fotos minhas lá também</p>
 
